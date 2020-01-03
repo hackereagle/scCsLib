@@ -1,0 +1,5 @@
+D:\Document\project\sclin_lib\Bin\scCsLib.Testing.exe.config
+D:\Document\project\sclin_lib\Bin\scCsLib.Testing.exe
+D:\Document\project\sclin_lib\Bin\scCsLib.Testing.pdb
+D:\Document\project\sclin_lib\scCsLib\scCsLib.Testing\obj\Debug\scCsLib.Testing.exe
+D:\Document\project\sclin_lib\scCsLib\scCsLib.Testing\obj\Debug\scCsLib.Testing.pdb

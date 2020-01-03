@@ -1,0 +1,5 @@
+D:\Document\project\sclin_lib\scCsLib\scCsLib\obj\Debug\scCsLib.csprojResolveAssemblyReference.cache
+D:\Document\project\sclin_lib\Bin\scCsLib.dll
+D:\Document\project\sclin_lib\Bin\scCsLib.pdb
+D:\Document\project\sclin_lib\scCsLib\scCsLib\obj\Debug\scCsLib.dll
+D:\Document\project\sclin_lib\scCsLib\scCsLib\obj\Debug\scCsLib.pdb
